@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Maktabi</h1>
-<h3 align="center">A passionate full stack-web developer from Syria</h3>
+# 💫 About Me:
+👋 Hi, I'm Abdulrahman Maktabi, a freelance web developer since 2021.<br>💻 I specialize in PHP, particularly Laravel and WordPress, building modern web applications and custom solutions for a variety of clients.<br>🚀 Passionate about clean code, problem-solving, and delivering real value through technology.<br>🌍 I enjoy working with international clients and continuously improving my skills in backend development, APIs, and CMS customization.<br>📫 Let’s connect: matabi.dev
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <strong>HTML</strong> - Knowledge of HTML5 and its structure for creating web pages.<br>
-    <strong>CSS</strong> - Proficient in styling websites using CSS3 to create beautiful and responsive designs.<br>
-    <strong>MySQL</strong> - Experienced in using MySQL for database management and optimization.<br>
-    <strong>PHP</strong> - Strong experience in server-side programming using PHP.<br>
-    <strong>OOP</strong> - Proficient in Object-Oriented Programming with PHP for building modular and reusable code.<br>
-    <strong>Design Patterns</strong> - Knowledge of common design patterns to solve recurring problems in software development.<br>
-    <strong>Laravel</strong> - Extensive experience in using Laravel to build robust, scalable, and secure web applications.<br>
-    <strong>Linux</strong> - Comfortable using Linux environments for development and server management.<br>
-    <strong>C</strong> - Proficient in C programming language for building system-level applications.<br>
-    <strong>C++</strong> - Experienced in C++ for creating high-performance applications with object-oriented principles.
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanmaktabi&show_icons=true&locale=en&layout=compact" alt="abdulrahmanmaktabi" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbdulrahmanMaktabi&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AbdulrahmanMaktabi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
